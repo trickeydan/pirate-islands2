@@ -1,4 +1,4 @@
-Smallpeice Rules
+SourceBots 2018 Rules
 ================
 
-Currently for the 2016 game: Formula 1 Ricin.
+The rulebook for SourceBots 2018
