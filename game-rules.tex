@@ -4,25 +4,22 @@
 \begin{enumerate}
   \item The game, called \emph{\gamename}, is played in the arena defined in
         Specification~\ref{spec:arena}. The objective is to collect tokens, and
-        to bring them to one's scoring zone.
-  \item The arena contains sixteen tokens. The layout is detailed in
-        Specification~\ref{spec:arena}. Each token is worth 2 points.
-  \item In the centre of the arena, on a raised platform, is a special poison
-        token, which has the effect of nullifying the scores in a zone.
+        to bring them to one's scoring zone in addition to removing opponents
+        tokens from your zone.
+  \item The arena contains twenty tokens. The layout is detailed in
+        Specification~\ref{spec:arena}. Each token of a matching color placed in your
+        zone is worth 3 points. Each token of a non-matching color placed in your zone is
+        worth -1 points.
   \item At the end of the game, each robot is awarded the sum of the value of
-        all tokens entirely within their scoring zone, unless that scoring zone
-        contains the poison token. If the zone contains the poison token, no
-        points are awarded.
-  \item An additional two bonus points are awarded for any movement from the
-        start position of a robot.\footnote{This can be awarded regardless of
-        the presence of a poison token.}
-  \item A token is in a scoring zone if, and only if, all the following
+        all tokens within their scoring zone (see rule \ref{rules:token})
+  \item An additional bonus point is awarded for any movement from the
+        start position of a robot.
+  \item \label{rules:token}A token is in a scoring zone if, and only if, all the following
         conditions are met:
         \begin{enumerate}
-          \item At least three of its corners are in contact with the floor in
-                the zone\footnote{Note that this means tokens on the central
-                platform are \emph{not} in any zone.},
-          \item It remains on the floor even if any robot touching it is lifted.
+          \item One of its corners are in contact with the floor in
+                the zone.
+          \item It remains on the floor when any robot touching it is lifted.
         \end{enumerate}
   \item Participating teams must present their robots to match officials at
         least one minute before the start of each match. They will be asked to
@@ -36,6 +33,8 @@
   \item At the start of each match, teams will be permitted to lean into the
         arena and start their robots.
   \item Each match lasts $180$ seconds.
+  \item Teams cannot touch their robots during the match, but they are allowed
+        to restart their robot if it does not move.
   \item At the end of each match, teams must wait for instructions to collect
         their robots or risk disqualification. This is in order to give match
         officials time to record scores.
@@ -44,4 +43,3 @@
         reason at the discretion of the judge. Teams disqualified before the
         start time of a match will not be permitted to enter a robot.
 \end{enumerate}
-
