@@ -17,7 +17,7 @@ follows:
   \textbf{Item} & \textbf{Marker Number} & \textbf{Marker Size (\si{mm})} \\
   \midrule
   Arena boundary & 0 -- 27 & 250 \\
-  Podiums & 28 -- 34 & 250 \\
+  Columns & 28 -- 34 & 250 \\
   Tokens & 35 -- 55 & 100 \\
   % Robot Badges & 56 -- 59 & 100 \\
   \bottomrule
@@ -43,8 +43,9 @@ is under the marker.
         The marker numbering is given in Figure~\ref{fig:arena}.
   \item The robot starting zones are squares which share corners with the arena
         itself. Their sides are of length \si{1}{m}.
-  \item In the arena there are 4 square columns with a height greater than or equal to \SI{300}{mm}, and a width of \SI{300}{mm}.
-  \item Podiums will have 4 different markers on each face, as given in Figure~\ref{fig:arena}.
+  \item In the arena there are 4 fixed square columns with a height greater than
+        or equal to \SI{300}{mm}, and a width of \SI{300}{mm}.
+  \item Columns will have 4 different markers on each face, as given in Figure~\ref{fig:arena}.
   \item The scoring zones are squares of sides \si{3}{m} Positioned with the podiums separating them.
   \item The starting and scoring zones is visually delineated on the floor of
         the arena by coloured tape. The outer edge of the tape indicates the
@@ -82,7 +83,8 @@ is under the marker.
         \si{110}{mm} $\pm$ \si{10}{mm}.
   \item Tokens will be coloured to match the colour of a scoring zone.
   \item Each face of each token has a paper AprilTag marker attached. The marker is
-        identical on all six faces.
-  \item The initial layout of tokens in the arena is defined in Section
+        identical on a The initial layout of tokens in the arena is defined in Section
   3.2.\ref{spec:tokenpos}.
 \end{enumerate}
+        The inner square is positioned such that two of its edges are the
+        inside edges of the scoring zones.
