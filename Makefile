@@ -1,4 +1,6 @@
 COMPILESVG=inkscape
+sourcebots.pdf: sourcebots.svg
+	inkscape -D -z --file=$< --export-pdf=$@ --export-latex	
 
 rules_printable.pdf: rules.pdf
 	convert -density 300 $< $@
