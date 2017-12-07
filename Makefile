@@ -1,14 +1,13 @@
 COMPILESVG=inkscape
-sourcebots.pdf: sourcebots.svg
-	inkscape -D -z --file=$< --export-pdf=$@ --export-latex	
 
 rules_printable.pdf: rules.pdf
 	convert -density 300 $< $@
 
 rules.pdf: rules.tex specs.tex game-rules.tex regulations.tex fig-sidewall.pdf \
-           fig-arena.pdf tournament.tex
+           fig-arena.pdf fig-sourcebots.pdf tournament.tex
 	pdflatex $<
 	pdflatex $<
+
 
 clean:
 	@xargs -t rm -rf <.gitignore
