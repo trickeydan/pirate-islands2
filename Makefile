@@ -1,12 +1,14 @@
 COMPILESVG=inkscape
 
+PDFLATEXFLAGS=-halt-on-error -interaction nonstopmode
+
 rules_printable.pdf: rules.pdf
 	convert -density 300 $< $@
 
 rules.pdf: rules.tex specs.tex game-rules.tex regulations.tex fig-sidewall.pdf \
            fig-arena.pdf fig-sourcebots.pdf
-	pdflatex $<
-	pdflatex $<
+	pdflatex $(PDFLATEXFLAGS) $<
+	pdflatex $(PDFLATEXFLAGS) $<
 
 
 clean:
