@@ -172,7 +172,7 @@
     <rect x="4.15" y="4.15" width="2.85" height="2.85" class="zone-3 line-follow-line"/>
 
     <rect width="4" height="4" x="2" y="2" class="line-follow-line"/>
-    <!-- Podiums -->
+    <!-- Columns -->
     <use xlink:href="#centre-column" x="1.85" y="3.85"/>
     <use xlink:href="#centre-column" x="3.85" y="1.85"/>
     <use xlink:href="#centre-column" x="5.85" y="3.85"/>
