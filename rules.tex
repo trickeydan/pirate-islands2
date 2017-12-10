@@ -24,6 +24,22 @@
     colorlinks=true,
 }
 
+\newcommand{\figref}[1]{
+    \hyperref[#1]{Figure~\ref*{#1}}%
+}
+\newcommand{\regref}[1]{
+    \hyperref[#1]{Regulation~\ref*{#1}}%
+}
+\newcommand{\ruleref}[1]{
+    \hyperref[#1]{Rule~\ref*{#1}}%
+}
+\newcommand{\specref}[1]{
+    \hyperref[#1]{Specification~\ref*{#1}}%
+}
+\newcommand{\subspecref}[2]{
+    \hyperref[#2]{Specification~\ref*{#1}.\ref*{#2}}%
+}
+
 \begin{document}
 
 \begin{titlepage}
