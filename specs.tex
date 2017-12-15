@@ -18,7 +18,10 @@ follows:
   \midrule
   Arena boundary & 0 -- 27 & 250 \\
   Columns & 28 -- 43 & 250 \\
-  Tokens & 44 -- 84 & 100 \\
+  Tokens belonging to the robot in zone 0 & 44 -- 49 & 100 \\
+  Tokens belonging to the robot in zone 1 & 50 -- 54 & 100 \\
+  Tokens belonging to the robot in zone 2 & 55 -- 59 & 100 \\
+  Tokens belonging to the robot in zone 3 & 60 -- 63 & 100 \\
   % Robot Badges & 69 -- 73 & 100 \\
   \bottomrule
 \end{tabular}
@@ -43,6 +46,7 @@ is under the marker.
         The marker numbering is given in \figref{fig:arena}.
   \item The robot starting zones are squares which share corners with the arena
         itself. Their sides are of length \si{1}{m}.
+  \item Starting zones are numbered 0,1,2,3 clockwise starting at the north west corner.
   \item In the arena there are 4 fixed square columns with a height greater than
         or equal to \SI{300}{mm}, and a width of \SI{300}{mm}.
   \item Columns will have 4 different markers on each face, as given in
