@@ -113,7 +113,7 @@
             <!--<use xlink:href="#token-ordinary" x="0.5" y="1.25"/>-->
             <use xlink:href="#token-ordinary" x="0.2415" y="1.24"/>
             <use xlink:href="#token-ordinary" x="1.74" y="1.38"/>
-            <use xlink:href="#token-ordinary" x="3" y="1" />
+            <use xlink:href="#token-ordinary" x="1" y="1" />
             <!-- <use xlink:href="#token-ordinary" x="2.075" y="2.075" />-->
         </g>
         <g id="wall-marker">
