@@ -27,7 +27,7 @@
       }
 
       .robot {
-          fill: green;
+          fill: black;
           stroke: black;
           stroke-width: 0.02;
       }
@@ -70,6 +70,11 @@
           font-size: 0.2;
           text-anchor: middle;
           fill: #222;
+      }
+
+      #robot-ids text {
+          font-size: 2em;
+          text-anchor: middle;
       }
 
       .text {
@@ -178,6 +183,7 @@
         <use xlink:href="#centre-column" x="5.85" y="3.85"/>
         <use xlink:href="#centre-column" x="3.85" y="5.85"/>
 
+
         <!-- tokens -->
         <!-- Zone 0 -->
         <use
@@ -270,6 +276,12 @@
             <text x="2.35" y="4.05">41</text> <!--East-->
             <text x="1.65" y="4.05">43</text> <!--West-->
 
+        </g>
+        <g class="text" id="robot-ids">
+            <text x="0.5" y="0.65" class="zone-0">0</text>
+            <text x="7.5" y="0.65" class="zone-1">1</text>
+            <text x="7.5" y="7.65" class="zone-2">2</text>
+            <text x="0.5" y="7.65" class="zone-3">3</text>
         </g>
     </g>
 </svg>
