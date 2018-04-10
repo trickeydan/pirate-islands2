@@ -14,8 +14,8 @@
    viewBox="0 0 350 550"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="flag.svg">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="fig-flag.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.42763516"
-     inkscape:cx="114.04281"
-     inkscape:cy="1281.2358"
+     inkscape:zoom="0.44541644"
+     inkscape:cx="707.22861"
+     inkscape:cy="1122.0225"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,36 +57,36 @@
     <rect
        style="opacity:1;vector-effect:none;fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.89906228;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect821"
-       width="18.100937"
+       width="14.767598"
        height="498.10095"
-       x="130.31882"
+       x="133.49377"
        y="-248.22775" />
     <rect
        style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1.96619296;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect823"
-       width="198.03381"
-       height="98.033806"
-       x="148.41975"
+       width="164.03381"
+       height="109.03381"
+       x="148.26137"
        y="-248.22775" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.00403953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 126.15546,-248.18812 h -15.11799 v 496.10167 h 16.93215"
+       d="m 128.80131,-248.18812 h -15.11799 v 496.10167 h 16.93215"
        id="path825"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Sans-serif;-inkscape-font-specification:'Sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="26.01836"
+       x="33.212986"
        y="-10.036629"
        id="text829"><tspan
          sodipodi:role="line"
          id="tspan827"
-         x="26.01836"
+         x="33.212986"
          y="-10.036629"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:Sans-serif;-inkscape-font-specification:'Sans-serif Bold';stroke-width:0.26458332px">&gt;50cm</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:Sans-serif;-inkscape-font-specification:'Sans-serif Bold';stroke-width:0.26458332px">45cm</tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 130.05941,253.60023 v 9.00991 h 18.36035 v -10.0911"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 133.18527,253.60023 v 9.00991 h 15.23449 v -10.0911"
        id="path825-3-3"
        inkscape:connector-curvature="0" />
     <text
@@ -99,38 +99,38 @@
          id="tspan827-5"
          x="111.28967"
          y="287.57559"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:Sans-serif;-inkscape-font-specification:'Sans-serif Bold';stroke-width:0.26458332px">&lt;1cm</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:Sans-serif;-inkscape-font-specification:'Sans-serif Bold';stroke-width:0.26458332px">1.5cm</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 152.64021,-145.14494 v 14.59185 h 192.40492 v -16.34287"
+       d="m 151.29957,-135.48975 v 14.59185 h 161.1568 v -16.34287"
        id="path825-3-35"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:Sans-serif;-inkscape-font-specification:'Sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="219.86436"
-       y="-106.569"
+       x="203.98553"
+       y="-98.70845"
        id="text829-6-6"><tspan
          sodipodi:role="line"
          id="tspan827-7-2"
-         x="219.86436"
-         y="-106.569"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:Sans-serif;-inkscape-font-specification:'Sans-serif Bold';stroke-width:0.26458332px">20cm</tspan></text>
+         x="203.98553"
+         y="-98.70845"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:Sans-serif;-inkscape-font-specification:'Sans-serif Bold';stroke-width:0.26458332px">15cm</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 154.99644,251.07011 h 13.89259 V -146.6781 h -15.5597"
+       d="m 154.99644,251.07028 h 13.89259 v -386.46229 h -15.5597"
        id="path825-3-9"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:Sans-serif;-inkscape-font-specification:'Sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="181.94379"
-       y="50.795963"
+       x="177.78569"
+       y="53.766029"
        id="text829-6-1"><tspan
          sodipodi:role="line"
          id="tspan827-7-27"
-         x="181.94379"
-         y="50.795963"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:Sans-serif;-inkscape-font-specification:'Sans-serif Bold';stroke-width:0.26458332px">40cm</tspan></text>
+         x="177.78569"
+         y="53.766029"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:Sans-serif;-inkscape-font-specification:'Sans-serif Bold';stroke-width:0.26458332px">35cm</tspan></text>
   </g>
 </svg>
