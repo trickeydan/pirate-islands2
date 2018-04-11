@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="507.20981mm"
-   height="537.06616mm"
-   viewBox="0 0 507.20981 537.06616"
+   width="520.50677mm"
+   height="535.47546mm"
+   viewBox="0 0 520.50678 535.47546"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 2405546, 2018-03-11"
@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.39922561"
-     inkscape:cx="832.34916"
-     inkscape:cy="1189.4625"
+     inkscape:zoom="0.48226766"
+     inkscape:cx="1669.0691"
+     inkscape:cy="1223.3209"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="false"
-     inkscape:window-width="1276"
-     inkscape:window-height="1313"
+     inkscape:window-width="2560"
+     inkscape:window-height="1440"
      inkscape:window-x="0"
-     inkscape:window-y="95"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -57,7 +57,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-34.775681,249.21085)">
+     transform="translate(-22.604836,249.21085)">
     <rect
        style="opacity:1;vector-effect:none;fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.8990624;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect821"
@@ -80,14 +80,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Sans-serif;-inkscape-font-specification:'Sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="33.212986"
+       x="21.042141"
        y="-10.036629"
        id="text829"><tspan
          sodipodi:role="line"
          id="tspan827"
-         x="33.212986"
+         x="21.042141"
          y="-10.036629"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:Sans-serif;-inkscape-font-specification:'Sans-serif Bold';stroke-width:0.26458332px">20cm</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:Sans-serif;-inkscape-font-specification:'Sans-serif Bold';stroke-width:0.26458332px">200mm</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 133.5651,253.60023 v 9.00991 h 35.86069 v -10.0911"
@@ -103,7 +103,7 @@
          id="tspan827-5"
          x="119.77333"
          y="285.98489"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:Sans-serif;-inkscape-font-specification:'Sans-serif Bold';stroke-width:0.26458332px">1.5cm</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:Sans-serif;-inkscape-font-specification:'Sans-serif Bold';stroke-width:0.26458332px">15mm</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 176.451,5.6166497 V 20.2085 H 539.73393 V 3.8656297"
@@ -119,7 +119,7 @@
          id="tspan827-7-2"
          x="318.22998"
          y="42.397949"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:Sans-serif;-inkscape-font-specification:'Sans-serif Bold';stroke-width:0.26458332px">15cm</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:Sans-serif;-inkscape-font-specification:'Sans-serif Bold';stroke-width:0.26458332px">150mm</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 177.75075,251.18219 h 13.89259 V 5.6166497 h -15.5597"
@@ -135,6 +135,6 @@
          x="205.5058"
          y="147.00641"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:Sans-serif;-inkscape-font-specification:'Sans-serif Bold';stroke-width:0.26458332px"
-         id="tspan826">10cm</tspan></text>
+         id="tspan826">100mm</tspan></text>
   </g>
 </svg>
