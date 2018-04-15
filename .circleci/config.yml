@@ -1,0 +1,12 @@
+version: 2
+jobs:
+    build:
+        docker:
+            - image: theorangeone/docker-pandoc
+        working_directory: ~/sb2018-rules
+        steps:
+            - checkout
+            - run: make COMPILESVG=svg2pdf
+            - store_artifacts:
+                path: rules.pdf
+                destination: rules.pdf
