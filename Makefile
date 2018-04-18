@@ -3,7 +3,7 @@ COMPILESVG=inkscape
 PDFLATEXFLAGS=-halt-on-error -interaction nonstopmode
 
 rules.pdf: rules.tex specs.tex game-rules.tex regulations.tex fig-sidewall.pdf \
-           fig-arena.pdf fig-sourcebots.pdf
+           fig-arena.pdf fig-sourcebots.pdf fig-flag.pdf
 	pdflatex $(PDFLATEXFLAGS) $<
 	pdflatex $(PDFLATEXFLAGS) $<
 
