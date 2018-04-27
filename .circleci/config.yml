@@ -6,7 +6,7 @@ jobs:
         working_directory: ~/sb2018-rules
         steps:
             - checkout
-            - run: make COMPILESVG=svg2pdf
+            - run: make
             - store_artifacts:
                 path: rules.pdf
                 destination: rules.pdf
