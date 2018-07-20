@@ -1,6 +1,6 @@
-SourceBots 2018 Rules
+Pirate Islands 2: Electric Boogaloo Rules
 ================
 
-[![CircleCI](https://circleci.com/gh/sourcebots/sb2018-rules.svg?style=svg)](https://circleci.com/gh/sourcebots/sb2018-rules)
+The rulebook for Smallpeice 2018
 
-The rulebook for SourceBots 2018
+This is a proposed game, based on the SourceBots 2018 Game
