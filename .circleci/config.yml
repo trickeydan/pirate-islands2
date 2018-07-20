@@ -3,7 +3,7 @@ jobs:
     build:
         docker:
             - image: theorangeone/docker-pandoc
-        working_directory: ~/sb2018-rules
+        working_directory: ~/pirate-islands2
         steps:
             - checkout
             - run: make

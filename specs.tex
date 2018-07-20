@@ -17,12 +17,10 @@ follows:
   \textbf{Item} & \textbf{Marker Number} & \textbf{Marker Size (\si{mm})} \\
   \midrule
   Arena boundary & 0 -- 27 & 250 \\
-  Columns & 28 -- 43 & 250 \\
-  Tokens belonging to the robot in zone 0 & 44 -- 48 & 100 \\
-  Tokens belonging to the robot in zone 1 & 49 -- 53 & 100 \\
-  Tokens belonging to the robot in zone 2 & 54 -- 58 & 100 \\
-  Tokens belonging to the robot in zone 3 & 59 -- 63 & 100 \\
-  % Robot Badges & 69 -- 73 & 100 \\
+  Tokens belonging to the robot in zone 0 & 28 -- 31 & 250 \\
+  Tokens belonging to the robot in zone 1 & 32 -- 35 & 250 \\
+  Tokens belonging to the robot in zone 2 & 36 -- 39 & 250 \\
+  Tokens belonging to the robot in zone 3 & 40 -- 43 & 250 \\
   \bottomrule
 \end{tabular}
 \end{center}
@@ -47,23 +45,14 @@ is under the marker.
   \item The robot starting zones are squares which share corners with the arena
         itself. Their sides are of length \si{1}{m}.
   \item Starting zones are numbered 0,1,2,3 clockwise starting at the north west corner.
-  \item In the arena there are 4 fixed square columns with a height greater than
-        or equal to \SI{370}{mm}, and a width of \SI{370}{mm}.
-  \item Columns will have 4 different markers on each face, as given in
-        \figref{fig:arena}.
-  \item Markers will be placed on columns such that there is a \SI{120}{mm} 
-        gap at the bottom.
-  \item The scoring zones are squares with sides \si{2815}{mm}$\pm$\SI{50}{mm}
-        positioned with the columns separating them.
   \item The starting and scoring zones is visually delineated on the floor of
         the arena by coloured tape. The outer edge of the tape indicates the
         outer edge of the zone. This tape is for visual reference only.
-  \item \label{spec:tokenpos} Tokens will be placed in undisclosed layouts
+  \item \label{spec:tokenpos} Tokens will be placed in a known layout
         within an inner \si{2}{m} square of each scoring zone. The inner square
         is positioned such that two of its edges are the inside edges of the
-        scoring zones. Tokens will start at least \si{150}{mm} from columns
-        or other tokens and their layouts will be rotationally symmetric to
-        that of other zones.
+        scoring zones. Tokens will start at least \si{150}{mm} from other tokens
+        and their layouts will be rotationally symmetric to that of other zones.
   \item Tokens will be placed in the scoring zone on the opposite side to their
         matching coloured scoring zone.
   \item \label{spec:flags} Flags will be cylinders with a diameter
@@ -82,9 +71,7 @@ is under the marker.
 
 \begin{figure}
   \includegraphics[scale=0.58]{fig-arena.pdf}
-  \caption{Layout zones and tokens in the arena. Please note that tokens will
-  be placed randomly but rotationally symmetrically within the respective
-  scoring zones.}
+  \caption{Layout zones and tokens in the arena.}
   \label{fig:arena}
 \end{figure}
 
